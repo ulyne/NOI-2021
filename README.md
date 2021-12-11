@@ -14,6 +14,7 @@
 12. Hello World (5/11/2021)
 13. PSLE Grading (14/11/2021)
 14. Prime Numbers (12/11/2021)
-15. Sum Of Integers (5/11/2021)
-16. 
+15. Maximum (9/12/2021)
+16. Sum Of Integers (5/11/2021)
+17. 
 
